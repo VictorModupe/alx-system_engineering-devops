@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Files in the current directory" ls -la echo -e "\nFiles in the parent directory:" ls -la .. echo -e "\nFiles in the /boot directory:" ls -la /boot
